@@ -1,0 +1,6 @@
+{
+  "name": "Skyline Merge - City Builder",
+  "description": "An English mobile-friendly H5 merge game featuring 10 building tiers from Brick to Sky City, custom level objectives, sound effects, background music synthesis, and shop upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
